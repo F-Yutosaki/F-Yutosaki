@@ -36,11 +36,11 @@
 <h2 align="center">🎨 Others 🎨</h2>
 <div align="center">
 
- <img src="https://github-sns-profile-card-e53bc5obaa-an.a.run.app/svg?platform=qiita&userid=Yutosaki"/>
- <img src="https://github-sns-profile-card-e53bc5obaa-an.a.run.app/svg?platform=zenn&userid=yutosaki"/>
- <img src="https://github-sns-profile-card-e53bc5obaa-an.a.run.app/svg?platform=atcoder&userid=SasakiYuto"/>
+[![Qiita](https://github-sns-profile-card-e53bc5obaa-an.a.run.app/svg?platform=qiita&userid=Yutosaki)](https://qiita.com/Yutosaki)
+[![Zenn](https://github-sns-profile-card-e53bc5obaa-an.a.run.app/svg?platform=zenn&userid=yutosaki)](https://zenn.dev/yutosaki)
 
 </div>
+
 
 ### You can create a profile like this form [here](https://teamsasa.github.io/readme-generator/)!
 ### You can also use profile icon like [this](https://github.com/Teamsasa/github-sns-profile-card) 
